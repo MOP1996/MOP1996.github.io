@@ -1,37 +1,36 @@
-## فلکس باکس
 
-You can use the [editor on GitHub](https://github.com/MOP1996/MOP1996.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<h1 dir ='rtl' align='right'> فلکس باکس </h1>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+   
 
-```markdown
-Syntax highlighted code block
+<p dir='rtl'>
 
-# Header 1
-## Header 2
-### Header 3
+   فلکس باکس ها جایگزینی برای فلوت ها هستند و ظاهر صفحه را به طور کلی توصیف میکنند. با  اینتفاوت که برخلاف فلوت ها که تنها به ما امکان مکان دهی بصورت افقی را میدهند/ در فلکس   باکس ها ما کنترل کامل بر روی صف بندی ها/ جهت ها / ترتیب و سایز باکس هایمان داریم. فلوت ها در اصل برای ساختار های مجله ای معرفی شده بودند و این در حالی است که تنوع ساختار هایی که میتوان با فلوت ها خلق کرد محدود است. در نتیجه فلکس باکس ها برای رفع این محدودیت ها معرفی شدند. فلکس باکس ها از ۲ نوع باکس استفاده میکنند: فلکس کانتینرها و فلکس آیتمها. وظیفه ی فلکس کانتینرها اینست که تعدادی از فلکس آیتم ها را با هم گروه میکند و چگونگی قرارگیری آنهارا توصیف میکند.
 
-- Bulleted
-- List
+</p>
+    
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+ <p dir='rtl' align='right'>  
 
-[Link](url) and ![Image](src)
-```
+       اولین گام برای استفاده از فلکس باکس ها/ اینست که یکی از المنت هایمان را به فلکس کانتینر تغییر بدهیم. برای این کار ما دیسپلی المنت را به فلکس تغییر میدهیم. گام بعدی مشخص کردن صف بندی المان ها بصورت افقی است. قدرت اصلی فلکس باکس ها زمانی معلوم میشود که ما چندین آیتم داشته باشیم.  همانطور که پیش تر اشاره شد/ در فلکس باکس ها ما صف بندی بصورت عمودی هم  داریم. صفبندی عمودی با اضافه کردن ویژگی الاین آیتم به فلکس کانتینرمان محقق میشود. کانتینر ها . میتوانند آیتم ها را  بصورت افقی یا عمودی (که پیشتر در فلوت ها همچنین امکانی نبود) رندر کنند برای اینکار کافیست فلکی دایرکشن را در کانتینر ستون کنیم. ترتیب قرارگیری آیتم ها درون فلکس باکس توسط ویژگی اردر برای هر آیتم تعریف میشود.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MOP1996/MOP1996.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+ </p>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+   
+
+    
+
+        
+
+    
+
+
+
+
+
