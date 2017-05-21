@@ -1,7 +1,9 @@
 
+<style>
+*{color='red';}
 
-
-<h1 dir ='rtl' align='right' style='color:red'> فلکس باکس </h1>
+</style>
+### فلکس باکس 
 
    
 
